@@ -1,0 +1,13 @@
+===== FACTURE =====
+Numéro : 1
+Client : Mme Bertine
+Date : 2025-07-13
+
+Détails des Articles :
+--------------------------------------------------
+Article              Unité      Qté   P.U.       Total     
+--------------------------------------------------
+Riz                  Kilogramme 5.0   4000.0     Ar 20000.0    Ar
+Huile                Litre      6.0   5000.0     Ar 30000.0    Ar
+--------------------------------------------------
+TOTAL                                    50000.0 Ar
